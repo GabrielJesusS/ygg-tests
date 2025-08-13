@@ -1,0 +1,13 @@
+{
+  "hash": "beb935cf-bf21-4876-9ee7-c12bcc24250c",
+  "name": "yggdrasil-tests",
+  "version": "0.0.1",
+  "modules": {
+    "readme": {
+      "version": "v.0.0.1",
+      "files": [
+        "README.md"
+      ]
+    }
+  }
+}
